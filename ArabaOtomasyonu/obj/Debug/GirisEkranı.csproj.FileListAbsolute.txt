@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\ArabaOtomasyonu\ArabaOtomasyonu\bin\Debug\musteri.mdf
+C:\Users\LENOVO\source\repos\ArabaOtomasyonu\ArabaOtomasyonu\bin\Debug\musteri_log.ldf
+C:\Users\LENOVO\source\repos\ArabaOtomasyonu\ArabaOtomasyonu\bin\Debug\ArabaOtomasyonu.exe.config
+C:\Users\LENOVO\source\repos\ArabaOtomasyonu\ArabaOtomasyonu\bin\Debug\ArabaOtomasyonu.exe
+C:\Users\LENOVO\source\repos\ArabaOtomasyonu\ArabaOtomasyonu\bin\Debug\ArabaOtomasyonu.pdb
+C:\Users\LENOVO\source\repos\ArabaOtomasyonu\ArabaOtomasyonu\obj\Debug\ArabaOtomasyonu.dogrulamakodu.resources
+C:\Users\LENOVO\source\repos\ArabaOtomasyonu\ArabaOtomasyonu\obj\Debug\ArabaOtomasyonu.Form1.resources
+C:\Users\LENOVO\source\repos\ArabaOtomasyonu\ArabaOtomasyonu\obj\Debug\ArabaOtomasyonu.Kayıtol.resources
+C:\Users\LENOVO\source\repos\ArabaOtomasyonu\ArabaOtomasyonu\obj\Debug\ArabaOtomasyonu.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\ArabaOtomasyonu\ArabaOtomasyonu\obj\Debug\ArabaOtomasyonu.sifreunut.resources
+C:\Users\LENOVO\source\repos\ArabaOtomasyonu\ArabaOtomasyonu\obj\Debug\GirisEkranı.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\ArabaOtomasyonu\ArabaOtomasyonu\obj\Debug\GirisEkranı.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\ArabaOtomasyonu\ArabaOtomasyonu\obj\Debug\ArabaOtomasyonu.exe
+C:\Users\LENOVO\source\repos\ArabaOtomasyonu\ArabaOtomasyonu\obj\Debug\ArabaOtomasyonu.pdb
